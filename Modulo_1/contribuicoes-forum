@@ -1,0 +1,392 @@
+
+    Assunto: Erros em JavaScript.
+    TL;DR: Este artigo descreve com exemplos de código sete tipos de erros que o JavaScript pode emitir, como por exemplo TypeError, SyntaxError e ReferenceError.
+    Link completo: https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492Links para um site externo..
+    Mês/ano: Fevereiro/2020.
+
+
+    Assunto: Entendendo o Falsy e Truthy no JavaScript.
+    TL;DR: Este artigo descreve com conceitos e exemplos de códigos o uso do Falsy e Truthy.
+    Link completo: https://blog.rocketseat.com.br/entendendo-falsy-e-truthy-no-javascript/.
+    Mês/ano: Agosto/2020.
+
+
+    Assunto: Depuração do Javascript no Google Chrome
+    TL;DR: Como debugar teu código no chrome, analisando passo-a-passo da sua função com breakpoints. O tutorial ensina os fluxos de trabalho para depuração de qualquer problema de JavaScript no console.
+    Link completo: https://developers.google.com/web/tools/chrome-devtools/javascript?hl=pt-br (Links para um site externo.)
+    Mês/ano: Julho/2020.
+
+
+    Assunto: Array methods (métodos de Array)
+    TL;DR: Este artigo exemplifica o uso de alguns dos métodos de array do Javascript mais utilizados no dia a dia do programador.
+    Link completo:  https://blog.geekhunter.com.br/arrays-em-javascript/
+    Mês/ano: Janeiro/2020.
+
+
+    Assunto: Boas práticas de Javascript que você precisa saber!
+    TL;DR: Este artigo elucida as melhores práticas de programação com a linguagem Javascript. Por exemplo: comente seu código, evite usar variáveis globais etc. 
+    Link completo: https://www.mundojs.com.br/2018/01/10/boas-praticas-de-javascript-que-voce-precisa-saber/
+    Mês/ano: Janeiro/2018.
+
+
+    Assunto: Tratamento de erros em JavaScript usando try… catch.
+    TL;DR: Este artigo descreve o conceito do mecanismo principal para tratamento de erros em JavaScript,  a construção try… catch.
+    Link completo: https://www.digitalocean.com/community/tutorials/js-error-handling-try-catch (Links para um site externo.)
+    Mês/ano: Agosto/2018.
+
+
+    Assunto: Como aprender JavaScript prático da maneira moderna.
+    TL;DR: Este é um site onde você pode aprender JavaScript de maneira dinâmica e melhor: online. O legal é que, conforme você for passando de lição, há inúmeros exercícios para você fazer,  incluindo lições, desafios, projetos e flashcards.  Com certeza, uma das melhores maneira de aprender JavaScript em 2020, passo a passo. 
+    Link completo: Link (Links para um site externo.) https://learnjavascript.online/ (Links para um site externo.)
+    Mês/ano: Setembro/2020.
+
+
+    Assunto: Farewell, Moment.js.
+    TL;DR: Este artigo informa que a biblioteca javascript Moment.js, uma das mais famosas libs de datas chegou ao fim nesse mês de Setembro de 2020.
+    Link completo: https://dev.to/mullinsmikey/farewell-moment-js-bd3 (Links para um site externo.)
+    Mês/ano: Setembro/2020.
+
+
+    Assunto: Como se tornar um desenvolvedor Javascript de sucesso.
+    TL;DR: Este artigo mapeia as principais habilidades que devemos ter para ser um desenvolvedor relevante no mercado e também informa as principais características e aplicações do Javascript.
+    Link completo: https://blog.umbler.com/br/como-se-tornar-um-desenvolvedor-javascript-de-sucesso/ (Links para um site externo.)
+    Mês/ano: Julho/2019.
+
+
+    Assunto:Como escrever um código assíncrono em Nodejs
+    TL;DR: Este artigo descreve com exemplos oque são  funções assíncronas e como utiliza-las no Nodejs
+    Link completo:https://www.digitalocean.com/community/tutorials/how-to-write-asynchronous-code-in-node-js-pt  (Links para um site externo.)
+    Mês/ano: Março/2019.
+
+
+    Assunto: React vs Vue vs Angular: qual escolher?
+    TL;DR: Este artigo compara as tecnologias: Angular, React e Vue. Mostrando as vantagens e desvantagens de cada um.
+    Link completo: https://blog.geekhunter.com.br/react-vs-vue-vs-angular-qual-escolher/
+    Mês/ano: Abril/2020.
+
+
+    Assunto: Técnicas Avançadas com JavaScript
+    TL;DR: O artigo lista algumas técnicas mais avançadas que são interessantes e que serão úteis no desenvolvimento de códigos quando se deparar com algum problema, por exemplo: Promisify e Closures.
+    Link completo: https://imasters.com.br/javascript/tecnicas-avancadas-com-javascript
+    Mês/ano: SET, 2020.
+
+
+    Assunto: Tipagem Dinâmica no JavaScript.
+    TL;DR: Este blog, fala de forma prática sobre, o que é, e como lidar com os tipos de dados em JavaScript, ou seja com sua Tipagem Dinâmica.
+    Link completo: https://medium.com/@danvitoriano/tipagem-din%C3%A2mica-no-javascript-e3551a445b38 (Links para um site externo.)
+    Mês/ano: Julho/2019.
+
+
+    Assunto: 10 Truques do NPM – Você conhece todos?
+    TL;DR: Neste post Akira Hanashiro, TreinarWeb, nos fala que existe muita coisa além de um "npm install". Através de dicas de comandos que podem ser usados no Node.js, 
+    Link completo: https://www.treinaweb.com.br/blog/10-truques-do-npm-voce-conhece-todos/.
+    Mês/ano: Maio/2019.
+
+    Assunto: Segurança em JavaScript.
+    TL;DR: A internet vem sendo utilizada por todas as pessoas, com isso se faz importante para o desenvolvedor em Javascript  criar códigos cada vez mais seguros. No próprio site MDN Web Docs da mozilla existe  artigos sobre o tema.
+    Link completo: https://developer.mozilla.org/pt-BR/docs/Web/Security/Securing_your_site (Links para um site externo.)
+    Mês/ano: Setembro/2020
+
+
+    Assunto: 15 métodos de arrays em javascript que você deveria conhecer.
+    TL;DR: Este artigo discorre sobre os principais métodos para manusear arrays em javascript. Uns mais conhecidos, como map(), filter(), reduce() e outros menos conhecidos, como flat(), some(), flatMap().
+    Link completo: https://dev.to/ibrahima92/15-must-know-javascript-array-methods-in-2020-1kd8 (Links para um site externo.)
+    Mês/ano: abril/2020.
+
+
+    Assunto: 14 Fundamental JavaScript Concepts Explained Simply
+    TL;DR: Esse artigo possui um fluxograma bem bacana que resume 14 conceitos fundamentais sobre Javascript com explicações bem diretas e objetivas (clique aqui para ver a imagem principal (Links para um site externo.)). Fala sobre estrutura do código, o uso do termo 'strict', variáveis, tipos e conversão de dados, operadores, condicionais, loops, funções, etc.
+    Link completo: https://medium.com/madhash/14-fundamental-javascript-concepts-explained-simply-8381dc9606c8 (Links para um site externo.) 
+    Mês/ano: Abril/2020.
+
+
+    Assunto: 10 Dicas para se Tornar Ninja em JavaScript!
+    TL;DR: Este artigo contempla 10 dicas para ajudar o desenvolvedor na codificação em Javascritpt
+    Link completo: https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492 (Links para um site externo.). (Links para um site externo.)
+    Mês/ano: Fevereiro/2019.
+
+
+    Assunto: Bibliotecas e FW JavaScript.
+    TL;DR: Este post fala de pontos críticos em FrameWorks JavaScript e mostra uma visão que estamos pouco acostumados a encontrar. Os principais pontos citados neste conteúdo são:
+    1- Alta rotatividade tecnológica
+    2- Pilhas personalizadas
+    3- Especialização dos desenvolvedores
+    Link completo: https://www.infoq.com/news/2020/06/second-generation-js-frameworks/
+    Mês/ano: Junho/2020.
+
+    Como remover um elemento específico de um array em JavaScript
+    Esse artigo é curto e bem didático. Explica muito bem como remover um elemento específico de uma array. Tem passo a passo de como fazer se já souber o índice e caso contrário em como descobrir o índice.
+    Link:  https://www.horadecodar.com.br/2020/09/20/como-remover-um-elemento-especifico-de-um-array-em-javascript/ 
+    Setembro/2020.
+
+
+    Assunto: A Linguagem mais utilizada no mundo.
+    TL;DR: A notícia mostra as linguagens mais utilizadas por desenvolvedores no mundo, sendo o JavaScript a mais popular.
+    Link completo: https://sempreupdate.com.br/javascript-e-usado-por-12-milhoes-de-desenvolvedores/
+    Mês/ano: Abirl/2020
+
+
+    Assunto: Curiosidades sobre o JavaScript.
+    TL;DR: Tal post faz referência à algumas curiosidades do famoso js, e o que mais me surpreendeu foi saber que sem sua existência não existiria o Uber,Google Maps e principalmente o IFood, sites muito preciosos atualmente.
+    Link Completo: https://deploystore.com.br/3-coisas-que-voce-provavelmente-nao-sabia-sobre-javascript/
+    Mês/ano: Janeiro/2020.
+
+
+    Assunto: Conhecendo os elementos  semânticos do HTML5.
+    TL;DR: Este artigo descreve a mais nova versão do HTML e suas novidades conceituais e semânticas.
+    Link completo: https://medium.com/reprogramabr/semanticahtml5-5252b4937f0a.
+    Mês/ano: Abril/2019.
+
+
+    Assunto: O sucessor  do Node.js? Deno 1.0
+    TL;DR:  Os criadores do Nodejs ( Ryan Dahl, Bert Belder, e Bartek Iwańczuk) para atender o mercado de desenvolvimento atual, pois o Nodejs já está com 11 anos. Com novos ecossistemas do JavaScript. A proposta do Deno 1.0 é prover uma ferramenta chamada (standalone) ou seja, está sozinho, criar uma solução rápida  para funcionalidade complexas.
+    Link: https://www.infoq.com/br/news/2020/05/sucessor-node-js-conheca-deno/
+
+
+    Assunto:  O que é o JavaScript?
+    TL;DR: Este post é um curso introdutório de JavaScript que a Mozzila.org desenvolveu, com o objetivo de ajudar desenvolvedores em formação. Além desse conteúdo, o site disponibiliza cursos de outras ferramentas.
+    Link completo: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript (Links para um site externo.)
+    Mês/ano: Agosto/2020
+
+
+    Assunto: Guia básico para aprender JavaScript;
+    TL;DR: Esse post mostra um guia básico para aprender JavaScript onde consta os títulos “O caminho para o aprendizado”, “Módulos”, “Aprofundamento” e “Resolvendo problemas comuns com JavaScript”;
+    Link completo https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript (Links para um site externo.)
+    Mês/ano: 08 de 2020.
+
+
+    Assunto: Escrevendo código de melhor qualidade em JavaScript
+    TL;DR: O artigo apresenta alguns insights sobre como escrever um código JavaScript mais compreenível e de qualidade.
+    Link completo: https://www.codementor.io/@seanhiggins550/writing-better-quality-code-in-javascript-1a2ka4fmzt (Links para um site externo.)
+    Mês/ano: Setembro/2020
+
+
+    Assunto: As linguagens de programação mais valorizadas pelas empresas na atualidade.
+    TL;DR: Nesta matéria é mostrado como o Javascript, Java e Python figuram entre conhecimentos essenciais dos profissionais de tecnologia.
+    Link completo: https://computerworld.com.br/2020/02/15/estas-sao-as-linguagens-de-programacao-mais-valorizadas-pelas-empresas-atualmente/.
+    Mês/ano: Fevereiro/2020.
+
+
+    Assunto: Porque é importante entender os fundamentos de javascript
+    TL;DR: Esse texto aborda a importãncia de entender como o javascript funciona e como isso ajuda na escrita e leitura de código.
+    link completo: https://medium.com/better-programming/how-javascript-works-1706b9b66c4d (Links para um site externo.)
+    Mês/ano: setembro/2019
+
+
+    Assunto: Escrevendo código de melhor qualidade em JavaScript.
+    TL;DR:  Este artigo apresenta dicas de boas praticas com JavaScript  como atribuir nomes de variáveis ​​significativas, usar valores padrão dentre outras. 
+    Link completo:  https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4431046&q=site:https%3A%2F%2Fwww.reddit.com%2Fr%2Fjavascript%2F.rss%3Fformat%3Dxml
+    Mês/ano:  Setembro/2020
+
+
+    Assunto: Como usar interpolação de String no JavaScript
+    TL;DR: Artigo sobre JS que explica como usar interpolação de String no Javascript para adicionar variáveis, expressões e operadores ternários dentro de uma String de uma maneira melhor e mais eficiente.
+    Link completo:https://www.freecodecamp.org/news/javascript-string-format-how-to-use-string-interpolation-in-js/ (Links para um site externo.)
+    Mês/ano: Setembro/2020
+
+
+    Assunto: JavaScript Clean Code - Best Practices
+    TL;DR: O artigo mostra dicas para ter um codigo mais limpo, mostrando boas praticas de como deixar o codigo mais legivel, dessa forma sendo mais apropriado a utlização de clean code, tanto para terceiros que forem ler seu codigo, quanto para nos mesmo quando precisamos mudar ou arrumar algo. obs: Artigo em inglês
+    Link completo:  https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
+    Mês/ano: maio/2019.
+
+
+    Assunto: Depuração de Js no Chrome DevTools
+    TL;DR: Tutorial ensinando utilizar o Chrome DevTools para debugar/testar/corrigir códigos JavaScript
+    Link completo: https://developers.google.com/web/tools/chrome-devtools/javascript?hl=pt-br (Links para um site externo.)
+    Mês/ano: Julho/2020
+
+
+    Assunto: Lista de perguntas de entrevistas JavaScript
+    TL;DR: O artigo apresenta as questões teóricas e práticas mais recorrentes em processos seletivos para programadores JavaScript, sendo uma ótima fonte de estudo para praticar os conhecimentos da linguagem e se preparar para aquela vaga de emprego!
+    Link completo:https://blog.soshace.com/ultimate-list-of-javascript-interview-questions/ (Links para um site externo.)
+    Mês/ano: Dezembro/2019
+
+
+    Assunto: O que é NEXT.JS
+    TL;DR: Este artigo explica o que é Next.JS e como iniciar um projeto.
+    Link completo: https://medium.com/front-end-weekly/next-js-what-is-it-9cb2f4af8f27 (Links para um site externo.)
+    Mês/ano: Janeiro/2019.
+
+
+    Assunto: Números grandes em JavaScript com BigInt
+    TL;DR: Este artigo busca abordar o emprego e a necessidade do uso do tipo de dados BigInt bem como seu funcionamento.
+    Link completo: Link
+    Mês/ano: 12/2018
+
+    Assunto: Como consumir dados da API com React uma biblioteca javascript 
+    TL;DR:  O post ensina como consumir dados de uma API utilizando a dependência Axios em aplicação web construída em React, utilizando o capote React DOM que permite exibir elementos React no browser.
+    Link completo: https://celke.com.br/artigo/como-consumir-dados-da-api-com-react
+    Mês/ano:  Fevereiro/2020
+
+
+    Assunto:Tipar ou não tipar?
+    TL;DR: Este artigo descreve uma introdução à tipagem em JavaScript
+    Link completo:https://medium.com/reactbrasil/tipar-ou-n%C3%A3o-tipar-f018cc8b84a4
+    Mês/ano: Nov/2019.
+
+
+    Assunto: Erros em JavaScript.
+    TL;DR: Este artigo descreve como trabalhar com datas em javascript de forma mais simples, passa basta um objeto de opções e a localização.
+    Link completo:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date/toDateString
+    Mês/ano: Março/2019.
+
+
+    Assunto: Javascript assíncrono
+    TL;DR:  Ainda que via de regra o JS seja algo síncrono, este artigo apresenta funcionalidades para execução assíncrona do JS, tratando do loop de eventos do JS, Callbacks, Promises e as chamadas async/await
+    Link completo: https://blog.bitsrc.io/journey-from-callbacks-to-promises-to-async-await-6fcd7f7fa3c5 (Links para um site externo.)
+    Mês/ano: setembro/2020
+
+
+    Assunto: JavaScript, uma linguagem de alto nível.
+    TL;DR: Este artigo mostra as vantagens em utilizar o JavaScript para ganho de produtividade, graças ao aumento de frameworks e sua integração de sistemas.
+    Link Completo: https://kbase.com.br/2019/05/07/javascript-uma-linguagem-de-alto-nivel/
+    Mês/ano: Maio/2019.
+
+
+    Assunto: JavaScript começa por aqui  sua jornada para ser um DEV.
+    TL;DR: Aprenderá os primeiros passos para iniciar em JavaScrit direto da MDN e conta com um teste no final desse guia para testar o que você aprendeu nos guias. O melhor de tudo que você está diretamente na fonte do JavaScript, pegando esses conhecimentos autualizados constantemente.   
+    Link completo: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps
+    Mês/ano: Abril/2020.
+
+
+    Assunto: Dysfunctional programming in JavaScript .
+    TL;DR: Este artigo aborda o paradigma de programação funcional e como este se relaciona com a linguagem JavaScript.
+    Link completo: https://medium.com/@petilon404/dysfunctional-programming-in-javascript-cae5c085a76e
+    Mês/ano: Setembro/2020
+
+
+    Assunto: Quando devo usar forEach e map?
+    TL;DR:  Este artigo descreve como forEach e map funcionam, como eles são diferentes embora pareçam ter a mesma funcionalidade quando percorrem um array.
+    Link Completo: https://www.alura.com.br/artigos/javascript-quando-devo-usar-foreach-e-map
+    Mês/Ano: Março/2020.
+
+
+    Assunto: Promessas em JavaScript
+    TL;DR: Este artigo explica o que é promessa em JS, async e await, e dá exemplos de como e quando deve ser usada.
+    Link Completo: https://graciano.me/2019/05/15/promessas-em-javascript (Links para um site externo.)
+    Mês/Ano: Maio/2019
+
+
+    Assunto: A segunda geração de frameworks e bibliotecas JavaScript: para além do Angular, React e Vue!
+    TL;DR: Este artigo apresenta um resumo dos principais desafios enfrentados  por quem utiliza os frameworks Angular, Vue e React, contrastando-os com uma segunda geração de frameworks que abraça os grandes requisitos do mundo corporativo, como estabilidade, aderência à padrões e modularidade.
+    Link completo: https://www.infoq.com/br/news/2020/07/second-generation-js-frameworks/?itm_source=presentations_about_javascript&itm_medium=link&itm_campaign=javascript (Links para um site externo.)
+    Mês/ano: Julho/2020.
+
+
+    Assunto: Javascript números e operadores
+    TL;DR: Este artivo aborda os números em Javascript, fala dos tipos de números, operadores aritméticos, operadores de incremento e decremento, operadores de atribuiçã e operadores de comparação
+    Link Completo: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Matematica
+    Mês/Ano: 06/2020
+
+
+    Assunto: 5 Frameworks para backend com JavaScript que experts recomendam.
+    TL;DR: O artigo retrata cinco frameworks para backend em JavaScript recomendados por especialistas, quais sejam: Next, Express, Gatsby, Node, Meteor.
+    Link completo: https://insights.dice.com/2020/08/21/5-backend-javascript-frameworks-experts-love/ (Links para um site externo.)
+    Mês/ano: Agosto/2020.
+
+
+    Assunto: O que fazer utilizando a linguagem JavaScript.
+    TL;DR: Este artigo mostra a importância da linguagem JavaScript e como ela está presente em diversas funcionalidades, como em websites, criação de servidores, banco de dados, testes, aplicativos e desenvolvimento de games.
+    Link completo: https://blog.dankicode.com/o-que-da-para-fazer-com-javascript/ (Links para um site externo.)
+    Mês/ano: Maio/2020.
+
+
+    Asssunto: Objetos Literais em Javascript
+    TL;DR: Post escrito por Petey onde ele fala sobre Object Literal em Javascript, demonstrando uma  maneira de deixar o código mais legível e menos verboso para a leitura (substituindo o switch/case)
+    Link completo: https://medium.com/better-programming/object-literal-in-javascript-d3e0e7d58f3b
+    Mês/ano: Janeiro/2020
+
+
+    Assunto: Ferramentas JavaScript
+    TL;DR: Esse artigo apresenta 6 ferramentas úteis para usos diversos, como nuvem e IoT,  e ensina como baixa-las.
+    Link completo: https://computerworld.com.br/2018/10/09/6-ferramentas-javascript-que-voce-precisa-conhecer/
+    Mês/Ano: 10/2018
+
+
+    Assunto: O que é necessário para ser um Desenvolvedor JavaScript Senior?
+    TL;DR: Este artigo descreve o caminho para se tornar um desenvolvedor JavaScript sênior, saindo de um simples criador de scripts a um desenvolvedor Júnior; De júnior para Pleno; De Pleno para Sênior.
+    Link completo: Link
+    Mês/ano: Julho/2020
+
+
+    Assunto: JavaScript: Texto em Maiúsculo & Minúsculo.
+    TL;DR: Este artigo descreve como efetuar conversões de um texto para maiúsculo, minúsculo ou ainda para alterar apenas a primeira letra da palavra para maiúsculo, utilizando Javascript.
+    Link completo: https://metring.com.br/javascript-texto-maiusculo-minusculo
+    Mês/ano: Julho/2020.
+
+    Assunto:Prototype pollution:A vulnerabilidade perigosa e subestimada que afeta os aplicativos JavaScript.
+    TL;DR:Este artigo trata de uma vulneranbilidade a muito tempo conhecida que pode afetar milhares de aplicações,e se explorada do jeito certo pode dar controle total do servidor ao invasor.
+    Link completo: https://portswigger.net/daily-swig/prototype-pollution-the-dangerous-and-underrated-vulnerability-impacting-javascript-applications (Links para um site externo.)
+    Mês/ano:August 2020 
+
+
+    Assunto: Ambiente Javascript: Dicas, VSCode e terminal.
+    TL;DR: Texto indica dicas bem legais sobre usar o VSCode de uma forma eficaz, assim como as melhores configurações para se fazer nele, além de plugs que facilitam a nossa vida.
+    Link completo: https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/ 
+    Mês/ano: Setembro/2018
+
+
+    Assunto: Paradigmas, identificadores e tipo de dados.
+    TL;DR: O artigo apresenta uma introdução a programação  utilizando Javascript em seus exemplos, além de abordar sobre paradigmas, variáveis, tipos de dados e outros.
+    Link completo: https://woliveiras.com.br/posts/paradigmas-identificadores-e-tipos-de-dados/.
+    Mês/ano: Abril/2019.
+
+
+    Assunto: Desenvolvimento Orientado a Testes (TDD)
+    TL;DR: Este artigo, são apresentados os conceitos básicos de Desenvolvimento Orientado a Testes.
+    Link completo: https://www.tecmundo.com.br/software/155909-5-passos-desenvolvimento-orientado-testes-tdd.htm
+    Mês/ano: Agosto/2020.
+
+
+    Assunto: Quando utilizar Promises ou Async/Await.
+    TL;DR: Este artigo descreve duas situações de quando utilizar Promises e Async/Await em termos de legibilidade de código: utilizar Promises para uma única chamada à API ou Async/Await para várias chamadas. Não há diferença de performance.
+    Link completo: https://blog.rocketseat.com.br/quando-utililzar-promises-e-async-await-no-useeffect-do-react/
+    Mês/ano: Junho/2020
+
+
+    Assunto: Orientação a objetos no contexto do JavaScript.
+    TL;DR: Este artigo aborda a forma como o paradigma de programação orientada a objetos se insere no contexto do JavaScript, sendo diferente da forma usual empregada em outras linguagens como Java ou PHP.
+    Link completo: https://medium.com/@alvarobasilioedmar/orientacao-a-objetos-js-d77177631835 (Links para um site externo.)
+    Mês/ano: Fevereiro/2020. 
+
+
+    Assunto: 5 Must-know JavaScript Tips & Tricks.
+    TL;DR: Esse artigo cita 5 dicas essenciais para otimizar a programação em JavaScript.
+    Link: https://blog.prototypr.io/5-must-know-javascript-tips-tricks-d1a04e9014de (Links para um site externo.)
+    Mês/ano: Julho/2020.
+
+    Assunto:  Principais ferramentas de engenharia Javascript para 2020
+    TL;DR: Este artigo cita  algumas ferramentas que podem ser utilizados em projetos de programação com JavaScript . Nessas ferramentas estão inclusos os Framework deste o muito popular Angular.js  ate  o mais simples Backbone. Ferramentas de construção e automação e Ferramentas de teste como JavaScript Debugger  que  é  ferramenta da Mozilla Development Community (MDN) trata de um aplicativo da web autônomo usado para depurar código em vários navegadores.
+    Link completo: https://programminginsider.com/top-javascript-engineering-tools-for-2020/ 
+    Mês/ano: Setembro/ 2020
+
+    Assunto: Javascript - Ordenando Elementos por Cores
+    TL;DR: - Este artigo demonstra como fazer no javascript uma ordenação de uma coleção de imagens pela combinação de cores de cada imagem, seguindo o círculo cromático.
+    Link Completo: https://www.treinaweb.com.br/blog/javascript-ordenando-elementos-por-cores/
+    Mês/ano: Março/2020
+
+
+    Assunto: Como escrever código limpo em Javascript.
+    TL;DR: Este artigo descreve com exemplos do que fazer e não fazer para escrever um Clean Code em Javascript. 
+    Link completo: https://medium.com/javascript-in-plain-english/javascript-clean-code-best-practices-461c24c53cae (Links para um site externo.)
+    Mês/ano: Julho/2020.
+    Link do artigo: https://www.mundojs.com.br/2019/06/11/diferenca-de-var-let-e-const-no-javascript
+
+
+    Assunto: Engine V8 - Javascript
+    TL;DR: Este artigo descreve o funcionamento básico do V8, que é utilizado para compilar e executar o JavaScript no Chrome e no NodeJS. Algo importante para desenvolver um código performático.
+    Link completo: https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html (Links para um site externo.)
+    Mês/ano: Julho/2020.
+
+
+    Assunto: O Método Call()
+    TL;DR: O artigo explica como utilizar o método do Javascript call() e apresenta exemplos de código abordando diferentes situações.
+    Link completo: https://www.mundojs.com.br/2020/09/02/o-metodo-call/
+    Mês/ano: Setembro/2020.
+
+
+    Assunto: Javascript: 10 dicas práticas
+    TL;DR: O post mostra  10 maneiras para serem mais eficiente
+    Link completo: https://medium.com/@oieduardorabelo/javascript-10-dicas-pr%C3%A1ticas-a612c616935a (Links para um site externo.)
+    Mês/ano: Maio/2020.
