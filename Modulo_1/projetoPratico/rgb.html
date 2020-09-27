@@ -15,24 +15,23 @@
     <p>(R) Vermelho</p>
     <div class="slider-wrapper">
       <input type="range" name="rangeInput" min="0" max="255" onchange="updateRed(this.value);">
-      <input type="text" id="textRed" value="0">
+      <input type="text" id="Red" value="0">
     </div>
 
     <p>(G) Verde</p>
     <div class="slider-wrapper">
       <input type="range" id="green" min="0" max="255" onchange="updateGreen(this.value);">
-      <input type="text" id="textGreen" value="0">
+      <input type="text" id="Green" value="0">
     </div>
 
     <p>(B) Azul</p>
     <div class="slider-wrapper">
       <input type="range" id="blue" min="0" max="255" onchange="updateBlue(this.value);">
-      <input type="text" id="textBlue" value="0">
+      <input type="text" id="Blue" value="0">
     </div>
   </div>
 
-  <div style="margin-top:20px;width:100px;height:100px;border:1px solid #000;background-color: rgb(50,255,200)">
-  </div>
+  <div class="square"></div>
 
   <script src="./script.js"></script>
 </body>
