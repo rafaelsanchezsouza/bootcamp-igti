@@ -40,3 +40,15 @@ th {
 th {
   background-color: #128128;
 }
+
+.normal {
+  color: blue;
+}
+
+.nice {
+  color: red;
+}
+
+.great {
+  color: purple;
+}

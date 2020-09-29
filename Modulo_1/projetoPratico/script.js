@@ -1,18 +1,18 @@
 function updateRed(redSlider) {
   changeColor();
   document.getElementById('rangeRed').value = redSlider;
-  document.getElementById('textRed').value = redSlider;
+  document.getElementById('numberRed').value = redSlider;
 }
 function updateGreen(greenSlider) {
   changeColor();
   //  console.log('Update Green');
   document.getElementById('rangeGreen').value = greenSlider;
-  document.getElementById('textGreen').value = greenSlider;
+  document.getElementById('numberGreen').value = greenSlider;
 }
 function updateBlue(blueSlider) {
   changeColor();
   document.getElementById('rangeBlue').value = blueSlider;
-  document.getElementById('textBlue').value = blueSlider;
+  document.getElementById('numberBlue').value = blueSlider;
 }
 
 function changeColor() {

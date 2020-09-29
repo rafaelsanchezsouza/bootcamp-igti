@@ -10,24 +10,25 @@
 </head>
 
 <body>
-  <div class="input-box">
-
-    <p>(R) Vermelho</p>
-    <div class="slider-wrapper">
-      <input type="range" value="0" id="rangeRed" min="0" max="255" onchange="updateRed(this.value);">
-      <input type="text" value="0" id="textRed" min="0" max="255" onchange="updateRed(this.value);">
-    </div>
-
-    <p>(G) Verde</p>
-    <div class="slider-wrapper">
-      <input type="range" value="0" id="rangeGreen" min="0" max="255" onchange="updateGreen(this.value);">
-      <input type="text" value="0" id="textGreen" min="0" max="255" onchange="updateGreen(this.value);">
-    </div>
-
-    <p>(B) Azul</p>
-    <div class="slider-wrapper">
-      <input type="range" value="0" id="rangeBlue" min="0" max="255" onchange="updateBlue(this.value);">
-      <input type="text" value="0" id="textBlue" min="0" max="255" onchange="updateBlue(this.value);">
+  <div class="container">
+    <div class="flex-column">
+      <ul>
+        <li class="flex-row">
+          <span class='label'>(R) Vermelho</span>
+          <input type="range" value="0" id="rangeRed" min="0" max="255" onchange="updateRed(this.value);">
+          <input type="number" value="0" id="numberRed" min="0" max="255" onchange="updateRed(this.value);">
+        </li>
+        <li class="flex-row">
+          <span class='label'>(G) Verde</span>
+          <input type="range" value="0" id="rangeGreen" min="0" max="255" onchange="updateGreen(this.value);">
+          <input type="number" value="0" id="numberGreen" min="0" max="255" onchange="updateGreen(this.value);">
+        </li>
+        <li class="flex-row">
+          <span class='label'>(B) Azul</span>
+          <input type="range" value="0" id="rangeBlue" min="0" max="255" onchange="updateBlue(this.value);">
+          <input type="number" value="0" id="numberBlue" min="0" max="255" onchange="updateBlue(this.value);">
+        </li>
+      </ul>
     </div>
   </div>
 
