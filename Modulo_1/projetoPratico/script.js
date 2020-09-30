@@ -1,3 +1,7 @@
+// window.addEventListener('load', start);
+
+// continue from video: 3825s
+
 function updateRed(redSlider) {
   changeColor();
   document.getElementById('rangeRed').value = redSlider;
