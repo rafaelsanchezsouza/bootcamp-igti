@@ -1,36 +1,39 @@
 import { promises as fs, readFileSync } from 'fs';
 
-const estado = 'MG';
-var cidades = 0;
-var estados = 0;
-readFile();
+loop();
+
+async function loop() {
+  const estado = 'MG';
+  const cidades = JSON.parse(await fs.readFile('./json/Cidades.json'));
+  const estados = JSON.parse(await fs.readFile('./json/Estados.json'));
+
+  // chama funcao que cria estados
+  createStateFile(cidades, estados);
+  countCities(estado);
+  countCitiesName(estado);
+}
+
+// // Opção com .then
+
 // readFile().then(([cidades, estados]) => {
+//   console.log(cidades);
 //   createStateFile(cidades, estados);
 // });
 
-createStateFile(cidades,estados)
-
-// countCities(estado);
-// countCitiesName(estado).then((result) => {
-//   console.log('Máx: ' + result);
-// });
-
-async function readFile() {
-  try {
-    cidades = JSON.parse(await fs.readFile('./json/Cidades.json'));
-    estados = JSON.parse(await fs.readFile('./json/Estados.json'));
-    // console.log(estados);
-    // return [cidades, estados];
-  } catch {
-    console.log(err);
-  }
-}
+// async function readFile() {
+//   try {
+//     const cidades = JSON.parse(await fs.readFile('./json/Cidades.json'));
+//     const estados = JSON.parse(await fs.readFile('./json/Estados.json'));
+//     return [cidades, estados];
+//   } catch {
+//     console.log(err);
+//   }
+// }
 async function createStateFile(cidades, estados) {
   try {
-    console.log('createStateFile()');
+    console.log(cidades);
     //read data
     var estado = [];
-    console.log('Início');
 
     var i = 0;
     var j = 0;
@@ -55,13 +58,13 @@ async function createStateFile(cidades, estados) {
   }
 }
 
-async function countCities(cidades, estados, estado) {
-  const uf = JSON.parse(await fs.readFile(estado + '.json'));
+async function countCities(estado) {
+  const uf = JSON.parse(await fs.readFile(`./json/${estado}.json`));
 
   console.log('Cidades no Estado de ' + estado + ': ' + uf.length);
 }
 
-async function countCitiesName(cidades, estados, estado) {
+async function countCitiesName(estado) {
   var nomeCidade = [];
   const uf = JSON.parse(await fs.readFile('./json/' + estado + '.json'));
   var max = 0;
@@ -79,8 +82,6 @@ async function countCitiesName(cidades, estados, estado) {
       min = novo;
     }
   }
-  return max;
-  // console.log('Máx: ' + max);
-  // console.log('Min: ' + min);
-  // console.log('Cidades no Estado de ' + estado + ': ' + uf.length);
+  console.log('Máx: ' + max);
+  console.log('Min: ' + min);
 }
